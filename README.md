@@ -69,7 +69,7 @@ Model diklasifikasikan menggunakan arsitektur **MobileNetV2** dengan pendekatan 
  
 ## 👤 Author
  
-**Ahmad** — Teknik Informatika / Sistem Informasi
+**Ahmad** Teknik Informatika / Sistem Informasi
 NIM: A11.2024.15653
  
 ---
